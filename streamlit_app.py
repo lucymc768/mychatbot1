@@ -3,7 +3,3 @@ from hugchat import hugchat
 from hugchat.login import Login
 
 st.set_page_config(page_title="🤗💬 HugChat")
-st.title('🎈 App Name')
-
-st.write('Hello world!')
-
